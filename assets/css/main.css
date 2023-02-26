@@ -3173,7 +3173,7 @@ input, select, textarea {
 				.wrapper.style2 button.primary,
 				.wrapper.style2 .button.primary {
 					box-shadow: none;
-					background-color: #139500e6;
+					background-color: #7602B7;
 					color: #ffffff !important;
 				}
 
@@ -3667,7 +3667,7 @@ input, select, textarea {
 			#header .button.primary {
 				box-shadow: none;
 				background-color: #ffffff;
-				color: #42EAFD !important;
+				color: #7602B7 !important;
 			}
 
 		#header label {
